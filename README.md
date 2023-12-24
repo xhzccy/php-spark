@@ -6,6 +6,7 @@
 
 <br/>
 <br/>
+
 ## 配置（function.php中）
 1、模型账号配置<br/>
 申请完账号后，test类xfyun函数中填写自己的$Appid，$Apikey，$ApiSecret<br/>
